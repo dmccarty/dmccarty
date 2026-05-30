@@ -14,6 +14,8 @@ Strong focus on backend systems, platform engineering, and production reliabilit
 
 I prefer owning systems end-to-end: backend architecture, APIs, databases, infrastructure, and operational stability.
 
+Available for contract, fractional, and backend engineering work.
+
 ---
 
 ## 🔧 Focus Areas
@@ -44,6 +46,6 @@ Ruby, Ruby on Rails, PostgreSQL, Redis, Sidekiq, Java, AWS, GCP, Docker, Kuberne
 
 ## 📫 Contact
 
-Email: **[dan@mccarty.dev](mailto:dan@mccarty.dev)**
+Email: **[dan.mccarty.dev@gmail.com](mailto:dan.mccarty.dev@gmail.com)**
 
 Open to contract, fractional, and full-time conversations.
