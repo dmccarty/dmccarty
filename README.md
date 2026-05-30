@@ -2,7 +2,7 @@
 
 Senior Backend / Platform Engineer (Ruby on Rails)
 
-Lafayette, CO | Remote | [dan@mccarty.dev.gmail.com](mailto:dan@mccarty.dev.gmail.com)
+Lafayette, CO | Remote | [dan.mccarty.dev@gmail.com](mailto:dan.mccarty.dev@gmail.com)
 
 ---
 
