@@ -1,16 +1,49 @@
-## Hi there 👋
+# Daniel McCarty
 
-<!--
-**dmccarty/dmccarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend / Platform Engineer (Ruby on Rails)
 
-Here are some ideas to get you started:
+Lafayette, CO | Remote | [dan@mccarty.dev](mailto:dan@mccarty.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About
+
+Senior backend engineer with 30+ years of experience building and operating production systems across SaaS, media, financial services, telecom, and public safety domains.
+
+Strong focus on backend systems, platform engineering, and production reliability — especially in Ruby on Rails and cloud environments.
+
+I prefer owning systems end-to-end: backend architecture, APIs, databases, infrastructure, and operational stability.
+
+---
+
+## 🔧 Focus Areas
+
+* Backend systems (Rails, APIs, distributed systems)
+* Platform engineering & internal tooling
+* PostgreSQL performance & optimization
+* Cloud infrastructure (AWS, GCP)
+* Production reliability & incident response
+* System modernization & scaling
+
+---
+
+## 🧰 Tech Stack
+
+Ruby, Ruby on Rails, PostgreSQL, Redis, Sidekiq, Java, AWS, GCP, Docker, Kubernetes, CI/CD, REST APIs, distributed systems
+
+---
+
+## 📌 Looking For
+
+* Contract backend / Rails work
+* Fractional engineering roles
+* Platform or infrastructure engineering
+* Systems needing reliability, scaling, or modernization
+
+---
+
+## 📫 Contact
+
+Email: **[dan@mccarty.dev](mailto:dan@mccarty.dev)**
+
+Open to contract, fractional, and full-time conversations.
